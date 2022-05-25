@@ -12,3 +12,4 @@ To change the working directory to the previous one
 To list all contents of current directory, parent working directory and /boot directory
 To print the type of the file named iamafile and it should be within /tmp directory when we run the script
 To create a symbolic link to /bin/ls, named __ls__
+To create a script that copies all html files to parent of working directory
