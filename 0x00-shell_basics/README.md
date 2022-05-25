@@ -8,3 +8,4 @@ To create a directory named my_first_directory in the /tmp/ directory
 To move the file betty from /tmp/ to /tmp/my_first_directory
 To delete the file betty inside /tmp/my_first_directory
 To delete the directory my_first_directory that is in the /tmp directory
+To change the working directory to the previous one
