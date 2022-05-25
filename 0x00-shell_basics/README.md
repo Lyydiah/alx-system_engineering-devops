@@ -10,3 +10,4 @@ To delete the file betty inside /tmp/my_first_directory
 To delete the directory my_first_directory that is in the /tmp directory
 To change the working directory to the previous one
 To list all contents of current directory, parent working directory and /boot directory
+To print the type of the file named iamafile and it should be within /tmp directory when we run the script
